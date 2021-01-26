@@ -1,4 +1,4 @@
-byeSpeaker();
+byeSpeaker.speakWord();
 (function (window) {
 
 	var byeSpeaker = {};
