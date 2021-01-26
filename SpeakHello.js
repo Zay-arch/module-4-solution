@@ -1,4 +1,4 @@
-helloSpeaker();
+helloSpeaker.speakWord();
 (function (window) {
 	var helloSpeaker = {};
 	var speakWord = "Hello";
