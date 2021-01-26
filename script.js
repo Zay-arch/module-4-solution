@@ -18,4 +18,4 @@ byeSpeaker();
   }
 
 }
-})();
+})(window);
