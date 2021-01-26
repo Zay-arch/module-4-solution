@@ -1,4 +1,3 @@
-byeSpeaker();
 (function (window) {
 
 	var byeSpeaker = {};
